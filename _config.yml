@@ -56,8 +56,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 3cccd046210156bfa340                            #生成的clientID
-  clientSecret: abda8a4c694fec4968c4e71f2ec5b2bb31e71ece    #生成的clientSecret
+  clientID:62d77d4895a5b751797d                            #生成的clientID
+  clientSecret: ceff0a61c28d9a381c1297fc614da727313afebe    #生成的clientSecret
   repo: topidiot.github.io    #仓库名称
   owner: TopIdiot    #github用户名
   admin: TopIdiot
